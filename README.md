@@ -15,6 +15,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
+  - [E-Commerce Platform Preview](#🛍️-E-Commerce-Platform-Preview)
   - [Architecture and Design](#architecture-and-design)
     - [Back-End Structure](#back-end-structure)
       - [CLEAN Architecture](#clean-architecture)
@@ -46,7 +47,7 @@ This project involves creating a full-stack e-commerce application with React an
 ### 🖼️ Collection Page
 ![Collection Page](./documentation/collection.png)
 
-### 🦸 Landing {age}
+### 🦸 Landing
 ![Hero Banner](./documentation/Hero.jpg)
 
 ### 🛒 Shopping Cart
