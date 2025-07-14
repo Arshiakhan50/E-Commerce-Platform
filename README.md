@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Fullstack E-Commerce Project](#fullstack-e-commerce-project)
+- [E-Commerce Project](#fullstack-e-commerce-project)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
@@ -41,6 +41,17 @@ This project involves creating a full-stack e-commerce application with React an
 - **Security**: Secure password hashing and authentication.
 
 ---
+
+## 🛍️ E-Commerce Platform Preview
+### 🖼️ Collection Page
+![Collection Page](./documentation/collection.png)
+
+### 🦸 Landing {age}
+![Hero Banner](./documentation/Hero.png)
+
+### 🛒 Shopping Cart
+![Shopping Cart](./documentation/Cart.png)
+
 
 ## Architecture and Design
 
@@ -132,7 +143,8 @@ The backend project follows CLEAN architecture principles, ensuring separation o
 
 ```sh
   git clone https://github.com/Arshiakhan50/E-Commerce-Platform.git
-  cd fullstack-ecommerce-app
+  cd E-Commerce-Platform
+
 ```
 
 2.  **Set up the database**:
