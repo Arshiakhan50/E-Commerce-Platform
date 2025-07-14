@@ -47,7 +47,7 @@ This project involves creating a full-stack e-commerce application with React an
 ![Collection Page](./documentation/collection.png)
 
 ### 🦸 Landing {age}
-![Hero Banner](./documentation/Hero.png)
+![Hero Banner](./documentation/Hero.jpg)
 
 ### 🛒 Shopping Cart
 ![Shopping Cart](./documentation/Cart.png)
