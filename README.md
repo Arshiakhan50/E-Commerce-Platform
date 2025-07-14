@@ -131,7 +131,7 @@ The backend project follows CLEAN architecture principles, ensuring separation o
 1. **Clone the project repository**:
 
 ```sh
-  git clone https://github.com/MohamadNach/fullstack-ecommerce-app.git
+  git clone https://github.com/Arshiakhan50/E-Commerce-Platform.git
   cd fullstack-ecommerce-app
 ```
 

@@ -107,7 +107,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     .EnableSensitiveDataLogging()
     .LogTo(Console.WriteLine, LogLevel.Information)
     // .AddInterceptors(new TimeStampInterceptor())
-    .UseNpgsql(builder.Configuration.GetConnectionString("localhost"))
+    .UseNpgsql("Host=localhost;Port=5432;Database=ecommerce_db;Username=postgres;Password=123456;")
     .UseSnakeCaseNamingConvention());
 
 
