@@ -1,28 +1,4 @@
-# Fullstack E-Commerce Project
-
-![.NET Core](https://img.shields.io/badge/.NET%20Core-v8-512BD4)
-![EF Core](https://img.shields.io/badge/EF%20Core-v8.0-0078D7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v14-336791)
-[![TypeScript](https://img.shields.io/badge/TypeScript-v5.5-blue)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-v18.3-61DAFB)](https://reactjs.org/)
-[![Redux](https://img.shields.io/badge/Redux-v2.2.7-764ABC)](https://redux.js.org/)
-[![Vite](https://img.shields.io/badge/Vite-v5.4.1-646CFF)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3.4.10-06B6D4)](https://tailwindcss.com/)
-
-## Table of Contents
-
-- [E-Commerce Project](#fullstack-e-commerce-project)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Features](#features)
-  - [E-Commerce Platform Preview](#E-Commerce-Platform-Preview)
-  - [Architecture and Design](#architecture-and-design)
-    - [Back-End Structure](#back-end-structure)
-      - [CLEAN Architecture](#clean-architecture)
-    - [Front-End Structure](#front-end-structure)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
+# Digital Commerce Platform
 
 ## Introduction
 
